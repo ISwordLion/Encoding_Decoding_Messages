@@ -1,2 +1,2 @@
 # Encoding_Decoding_Messages
-### Thanks for providing this fun and refresihing coding practice, Codecademy!
+#### Thanks for providing this fun and refreshing coding practice, Codecademy!
